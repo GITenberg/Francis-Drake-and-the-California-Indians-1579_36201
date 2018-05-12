@@ -1,0 +1,31 @@
+_repo: Francis-Drake-and-the-California-Indians-1579_36201
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Heizer, Robert F. (Robert Fleming)
+    aliases:
+    - Heizer, R. F. (Robert Fleming)
+    - Heizer, Robert Fleming
+    birthdate: 1915
+    deathdate: 1979
+    gutenberg_agent_id: '38139'
+    url: http://www.gutenberg.org/2009/agents/38139
+description: ''
+gutenberg_issued: '2011-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36201'
+  lccn: a47001672
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drake, Francis, approximately 1540-1596 -- Travel -- California'
+- !lcsh 'Indians of North America -- California'
+- !lcc 'E011'
+title: Francis Drake and the California Indians, 1579
+url: http://www.gutenberg.org/ebooks/36201
